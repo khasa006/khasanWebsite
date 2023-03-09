@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kazi Tanvir Hasan"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: CV.qmd
+        text: Resume
+      
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+

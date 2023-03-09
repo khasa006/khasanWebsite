@@ -1,0 +1,23 @@
+---
+title: "Kazi Tanvir Hasan"
+image: myPic.jpeg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:khasa006@fiu.edu
+    - text: GitHub
+      icon: github
+      href: https://github.com/khasa006
+    - text: ORCiD
+      icon: orcid
+      href: https://orcid.org/0000-0002-7723-4177  
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/khasa006/
+---
+
+As a PhD student at the Department of Biostatistics in Florida International University, I have developed a strong research interest in a variety of fields, including Data Science, Machine learning, Disease Modeling and Bayesian Analysis. Throughout my academic career, I have been dedicated to pursuing innovative research projects that contribute to advancing knowledge in these areas. With a deep passion for statistical modeling and analysis, I am eager to continue exploring complex problems and developing innovative solutions that can have a positive impact on human health and well-being.

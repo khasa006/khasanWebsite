@@ -1,0 +1,10 @@
+/* css styles */
+
+.avatar {
+    height: 150px;
+    width: 150px;
+    position: relative;
+    margin: -5px 0 0 10px;
+    float: right;
+    border-radius: 50%;
+}
