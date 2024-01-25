@@ -10,6 +10,8 @@ website:
         text: About
       - href: CV.qmd
         text: Resume
+      - href: certificate.qmd
+        text: Certificate
       
 format:
   html:
