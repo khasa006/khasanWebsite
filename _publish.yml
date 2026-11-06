@@ -1,4 +1,6 @@
 - source: project
   quarto-pub:
     - id: 1427216f-6851-47ee-853b-13d2108af532
-      url: 'https://quartopub.com/sites/khasan/kazi-tanvir-hasan'
+      url: https://khasan.quarto.pub/kazi-tanvir-hasan
+    - id: 926018f8-4e3b-4230-85ab-42be783a5998
+      url: https://khasan.quarto.pub/kazi-tanvir-hasan

@@ -1,1 +1,1 @@
-Sitemap: https://quartopub.com/sites/khasan/kazi-tanvir-hasan/sitemap.xml
+Sitemap: https://khasan.quarto.pub/kazi-tanvir-hasan/sitemap.xml

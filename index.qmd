@@ -20,4 +20,10 @@ about:
       href: https://www.linkedin.com/in/khasa006/
 ---
 
-As a PhD student at the Department of Biostatistics in Florida International University, I have developed a strong research interest in a variety of fields, including Data Science, Machine learning, Disease Modeling and Bayesian Analysis. Throughout my academic career, I have been dedicated to pursuing innovative research projects that contribute to advancing knowledge in these areas. With a deep passion for statistical modeling and analysis, I am eager to continue exploring complex problems and developing innovative solutions that can have a positive impact on human health and well-being.
+I'm a **Senior Associate Data Scientist in Pharmacometrics at Alnylam Pharmaceuticals**, with a PhD in Public Health (Biostatistics & Data Analytics) from Florida International University.
+
+My work spans **biostatistics, statistical genetics, Bayesian modeling, causal inference, and clinical data science**, with experience in academic research and the pharmaceutical industry.
+
+Previously, I was a **Postdoctoral Associate in the Department of Psychiatry at Yale School of Medicine**, where I conducted genetically informed research on substance use disorders (SUDs), psychiatric conditions, and related health outcomes using large-scale biobanks and genome-wide association data.
+
+My research interests center on applying statistical methodology, computational tools, and reproducible analytical workflows to biomedical and clinical research questions.
